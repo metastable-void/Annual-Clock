@@ -1,0 +1,278 @@
+<!-- -*- mode: xml; coding: utf-8; tab-width: 4; indent-tabs-mode: t -*-
+Copyright © 2018  DESKROPD.EU.ORG
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<svg
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="100%"
+height="100%"
+viewBox="0 0 1 1">
+<title>DESKTOPD.EU.ORG</title>
+<style
+type="text/css"><![CDATA[
+@font-face{
+	font-family: 'Fira Mono';
+	src: url('https://code.cdn.mozilla.net/fonts/eot/FiraMono-Regular.eot');
+	src: local('Fira Mono'),
+		url('https://code.cdn.mozilla.net/fonts/eot/FiraMono-Regular.eot') format('embedded-opentype'),
+		url('https://code.cdn.mozilla.net/fonts/woff/FiraMono-Regular.woff') format('woff'),
+		url('https://code.cdn.mozilla.net/fonts/ttf/FiraMono-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+:root {
+	-webkit-user-drag: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+	pointer-events: none;
+}
+]]></style>
+<defs>
+<linearGradient
+id="g1"
+x1="0"
+y1="0"
+x2="1"
+y2=".5">
+<stop offset="0" stop-color="#fff" stop-opacity="1"/>
+<stop offset="1" stop-color="#fff" stop-opacity="0.8333333333333334"/>
+</linearGradient>
+<linearGradient
+id="g2"
+x1="0.8660254037844387"
+y1="0"
+x2="0.8660254037844387"
+y2="1">
+<stop offset="0" stop-color="#fff" stop-opacity="0.8333333333333334"/>
+<stop offset="1" stop-color="#fff" stop-opacity="0.6666666666666667"/>
+</linearGradient>
+<linearGradient
+id="g3"
+x1="1"
+y1=".5"
+x2="0"
+y2="1">
+<stop offset="0" stop-color="#fff" stop-opacity="0.6666666666666667"/>
+<stop offset="1" stop-color="#fff" stop-opacity="0.5"/>
+</linearGradient>
+<linearGradient
+id="g4"
+x1="1"
+y1="1"
+x2="0"
+y2=".5">
+<stop offset="0" stop-color="#fff" stop-opacity="0.5"/>
+<stop offset="1" stop-color="#fff" stop-opacity="0.33333333333333333"/>
+</linearGradient>
+<linearGradient
+id="g5"
+x1="0.1339745962155613"
+y1="1"
+x2="0.1339745962155613"
+y2="0">
+<stop offset="0" stop-color="#fff" stop-opacity="0.33333333333333333"/>
+<stop offset="1" stop-color="#fff" stop-opacity="0.16666666666666667"/>
+</linearGradient>
+<linearGradient
+id="g6"
+x1="0"
+y1=".5"
+x2="1"
+y2="0">
+<stop offset="0" stop-color="#fff" stop-opacity="0.16666666666666667"/>
+<stop offset="1" stop-color="#fff" stop-opacity="0"/>
+</linearGradient>
+<g
+id="p0">
+<path
+d="m 0.5 0.5
+v -0.5
+a 0.5 0.5 0 0 1 0.43301270189221935 0.25
+z"
+fill="url(#g1)"/>
+<path
+d="m 0.5 0.5
+l 0.43301270189221935 -0.25
+a 0.5 0.5 0 0 1 0 0.5
+z"
+fill="url(#g2)"/>
+<path
+d="m 0.5 0.5
+l 0.43301270189221935 0.25
+a 0.5 0.5 0 0 1 -0.43301270189221935 0.25
+z"
+fill="url(#g3)"/>
+<path
+d="m 0.5 0.5
+v 0.5
+a 0.5 0.5 0 0 1 -0.43301270189221935 -0.25
+z"
+fill="url(#g4)"/>
+<path
+d="m 0.5 0.5
+l -0.43301270189221935 0.25
+a 0.5 0.5 0 0 1 0 -0.5
+z"
+fill="url(#g5)"/>
+<path
+d="m 0.5 0.5
+l -0.43301270189221935 -0.25
+a 0.5 0.5 0 0 1 0.43301270189221935 -0.25
+z"
+fill="url(#g6)"/>
+</g>
+<radialGradient id="r1">
+<stop offset="75%" stop-opacity="1" stop-color="#fff"/>
+<stop offset="100%" stop-opacity="0" stop-color="#fff"/>
+</radialGradient>
+</defs>
+<g>
+<circle
+cx="0.5"
+cy="0.5"
+r="0.5"
+id="b1"/>
+<g>
+<title>Year</title>
+<use
+xlink:href="#p0"
+xlink:title="Year"
+id="p1"/>
+</g>
+<circle
+cx="0.5"
+cy="0.5"
+r="0.4375"
+id="b2"/>
+<g
+transform="matrix(0.875, 0, 0, 0.875, 0.0625, 0.0625)">
+<title>Day</title>
+<use
+xlink:href="#p0"
+xlink:title="Day"
+id="p2"/>
+</g>
+<circle
+cx="0.5"
+cy="0.5"
+r="0.375"
+id="b3"/>
+<g
+transform="matrix(0.75, 0, 0, 0.75, 0.125, 0.125)">
+<title>Hour</title>
+<use
+xlink:href="#p0"
+xlink:title="Hour"
+id="p3"/>
+</g>
+<circle
+cx="0.5"
+cy="0.5"
+r="0.3125"
+id="b4"/>
+<g
+transform="matrix(0.625, 0, 0, 0.625, 0.1875, 0.1875)">
+<title>Minute</title>
+<use
+xlink:href="#p0"
+xlink:title="Minute"
+id="p4"/>
+</g>
+<circle
+cx="0.5"
+cy="0.5"
+r="0.25"
+id="b5"/>
+<g
+transform="matrix(0.5, 0, 0, 0.5, 0.25, 0.25)">
+<title>Second</title>
+<use
+xlink:href="#p0"
+xlink:title="Second"
+id="p5"/>
+</g>
+<circle
+cx="0.5"
+cy="0.5"
+r="0.25"
+fill="url(#r1)"/>
+</g>
+<g
+fill="#000"
+text-anchor="end"
+font-size="0.032"
+font-family="Fira Mono">
+<text
+x="0.65"
+y="0.45"><tspan id="t1"></tspan> <tspan fill="#888">a</tspan></text>
+<text
+x="0.65"
+y="0.5"><tspan id="t2"></tspan> <tspan fill="#888">d</tspan></text>
+<text
+x="0.65"
+y="0.55"><tspan fill="#888">@</tspan> <tspan id="t3"></tspan></text>
+</g>
+<script
+type="text/javascript"><![CDATA[+async function (w, d, C) {
+const $ = d.getElementById.bind (d);
+
+const p1 = $ ('p1'), p2 = $ ('p2'), p3 = $ ('p3'), p4 = $ ('p4'), p5 = $ ('p5');
+const b1 = $ ('b1'), b2 = $ ('b2'), b3 = $ ('b3'), b4 = $ ('b4'), b5 = $ ('b5');
+const t1 = $ ('t1'), t2 = $ ('t2'), t3 = $ ('t3');
+
+const rot = (e, X) => x => X == x
+	|| (e.setAttribute ('transform', 'rotate(' + x + ' 0.5 0.5)')
+		, X = x);
+
+const txt = (e, T) => t => T == t
+	|| (e.childNodes.length && e.childNodes[0].remove ()
+		, e.appendChild (d.createTextNode (t))
+		, T = t);
+
+const rp1 = rot (p1), rp2 = rot (p2), rp3 = rot (p3), rp4 = rot (p4), rp5 = rot (p5);
+const st1 = txt (t1), st2 = txt (t2), st3 = txt (t3);
+
+while (await new Promise (f => w.requestAnimationFrame (f))) {
+	const t = new Date;
+	const y = t.getUTCFullYear (), h = t.getUTCHours (), m = t.getUTCMinutes ();
+	const s = t.getUTCSeconds (), u = t.getUTCMilliseconds ();
+	const t0 = new Date (y, 0, 1), t1 = new Date (y + 1, 0, 1);
+	const dy = (t - t0) / (t1 - t0);
+	const c = 'hsl(' + (0 | (dy * 360));
+	
+	if (C != c) {
+		b1.setAttribute ('fill', c + ',100%,50%)');
+		b2.setAttribute ('fill', c + ',80%,50%)');
+		b3.setAttribute ('fill', c + ',60%,50%)');
+		b4.setAttribute ('fill', c + ',40%,50%)');
+		b5.setAttribute ('fill', c + ',20%,50%)');
+		C = c;
+	}
+	
+	rp5 (u * .36);
+	rp4 (s * 6 + u * .006);
+	rp3 (m * 6 + s * .1);
+	rp2 (h * 15 + m * .25);
+	rp1 (dy * 360);
+
+	st3 ((t * .001).toFixed (2));
+	st2 (((t - t0) / 86400000).toFixed (5));
+	st1 ((y + dy).toFixed (8));
+}
+} (this, document)]]></script>
+</svg>
